@@ -1,11 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color:  #420707;
+}
+
 
 h1, h2 {
     font-family: 'Abril Fatface', cursive;
     color:  #177e5c;
 }
 
-p, a {
-    font-family: 'Roboto', sans-serif;
-    font-size: 14px;
-    color:  #420707;
-}
+
